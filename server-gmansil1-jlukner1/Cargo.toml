@@ -1,0 +1,11 @@
+[package]
+name = "server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cursor = { git = "https://github.com/QnnOkabayashi/rust-course-utils" }
+local-ip-address = "0.5.1"
+readbuf = { git = "https://github.com/QnnOkabayashi/rust-course-utils" }
+
+
